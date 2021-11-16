@@ -1,0 +1,15 @@
+C:\Users\thoma\Dev\codewars\csharp-dojo\CodewarsApp\bin\Debug\net6.0\CodewarsApp.exe
+C:\Users\thoma\Dev\codewars\csharp-dojo\CodewarsApp\bin\Debug\net6.0\CodewarsApp.deps.json
+C:\Users\thoma\Dev\codewars\csharp-dojo\CodewarsApp\bin\Debug\net6.0\CodewarsApp.runtimeconfig.json
+C:\Users\thoma\Dev\codewars\csharp-dojo\CodewarsApp\bin\Debug\net6.0\CodewarsApp.dll
+C:\Users\thoma\Dev\codewars\csharp-dojo\CodewarsApp\bin\Debug\net6.0\ref\CodewarsApp.dll
+C:\Users\thoma\Dev\codewars\csharp-dojo\CodewarsApp\bin\Debug\net6.0\CodewarsApp.pdb
+C:\Users\thoma\Dev\codewars\csharp-dojo\CodewarsApp\obj\Debug\net6.0\CodewarsApp.csproj.AssemblyReference.cache
+C:\Users\thoma\Dev\codewars\csharp-dojo\CodewarsApp\obj\Debug\net6.0\CodewarsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\Dev\codewars\csharp-dojo\CodewarsApp\obj\Debug\net6.0\CodewarsApp.AssemblyInfoInputs.cache
+C:\Users\thoma\Dev\codewars\csharp-dojo\CodewarsApp\obj\Debug\net6.0\CodewarsApp.AssemblyInfo.cs
+C:\Users\thoma\Dev\codewars\csharp-dojo\CodewarsApp\obj\Debug\net6.0\CodewarsApp.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Dev\codewars\csharp-dojo\CodewarsApp\obj\Debug\net6.0\CodewarsApp.dll
+C:\Users\thoma\Dev\codewars\csharp-dojo\CodewarsApp\obj\Debug\net6.0\ref\CodewarsApp.dll
+C:\Users\thoma\Dev\codewars\csharp-dojo\CodewarsApp\obj\Debug\net6.0\CodewarsApp.pdb
+C:\Users\thoma\Dev\codewars\csharp-dojo\CodewarsApp\obj\Debug\net6.0\CodewarsApp.genruntimeconfig.cache
