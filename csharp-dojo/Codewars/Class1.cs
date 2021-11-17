@@ -1,5 +1,8 @@
-﻿namespace Codewars;
-public class Class1
+﻿namespace Codewars
 {
 
+    public class Class1
+    {
+
+    }
 }

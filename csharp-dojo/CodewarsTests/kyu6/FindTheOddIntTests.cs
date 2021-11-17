@@ -1,5 +1,5 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Codewars.kyu6;
+﻿using Codewars.kyu6;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace CodewarsTests.kyu6
 {
