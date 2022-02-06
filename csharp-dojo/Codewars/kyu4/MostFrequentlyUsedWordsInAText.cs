@@ -45,7 +45,7 @@ namespace Codewars.kyu4
     {
         public static List<string> Top3(string s)
         {
-            Regex r = new Regex(@"((?<!\w)[\w]+'{0,1}[\w]+|\w)");
+            Regex r = new Regex(@"((?<!\w)[a-z]+'{0,1}[a-z]+|[a-z])", RegexOptions.IgnoreCase);
 
             var matches = r.Matches(s).Select(x => x.Value.ToLower()).GroupBy(x => x).OrderByDescending(x => x.Count()).Select(x => x.Key).Take(3);
             return matches.ToList();
