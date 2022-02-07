@@ -60,21 +60,24 @@ Note that the example above excludes the punctuation and spaces just for simplic
             Console.WriteLine("> " + s);
             string[] decoded = new string[s.Length];
             int len = n * 2 - 1;
-            int curRow = 0;
+            int curRail = 0;
             int decodedIndex = 0;
             for(int i=0;i<s.Length;i++)
             {
                 decoded[decodedIndex] = s.Substring(i, 1);
-                decodedIndex += len-1;
+                if (decodedIndex % (len-1) / (n - 1) < 0.5)
+                {
+                    decodedIndex = decodedIndex + (len - 2 * curRail) - 1;
+                }
+                else
+                {
+                    decodedIndex += (2 * curRail);
+                }
 
                 if(decodedIndex >= s.Length)
                 {
-                    curRow += 1;
-                    decodedIndex = curRow;
-                    if (curRow < (n-1))
-                        len = (n - curRow) * 2 - 1;
-                    else
-                        len = n * 2 - 1;
+                    curRail += 1;
+                    decodedIndex = curRail;
                 }
             }
 
